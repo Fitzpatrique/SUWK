@@ -1,2 +1,2 @@
-# Twicenew
-An online thrift store
+# Skill-Up With Kahdsole
+A Fashion Tech Social Enterprise
