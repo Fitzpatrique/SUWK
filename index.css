@@ -543,4 +543,11 @@ a{
     .navigation-btn{
         text-align: center;
     }
+
+    .desktop-header-body-text-header{
+        width: auto;
+        height: fit-content;
+        font-size: 32px;
+        font-weight: 1000;
+    }
 }
