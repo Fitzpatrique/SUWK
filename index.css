@@ -767,6 +767,11 @@ a{
         gap: 32px;
     }
 
+    .desktop-header-body-image{
+        width: 257px;
+        height: auto;
+    }
+
     .desktop-header-body{
         width: 92%;
     }
