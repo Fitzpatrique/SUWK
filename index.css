@@ -81,7 +81,7 @@ a{
     background-size: auto;
     width: 100%;
     height: fit-content;
-    padding-bottom: 10vh;
+    padding-bottom: 0;
 }
 
 .desktop-navigation{
