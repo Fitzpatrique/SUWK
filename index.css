@@ -599,6 +599,11 @@ iframe{
         display: none;
     }
 
+    iframe{
+        width: 92vw;
+        height: 69vw;
+    }
+
     .desktop-header-body, .desktop-section-2  {
         flex-direction: column;
     }
@@ -770,8 +775,8 @@ iframe{
     }
 
     iframe{
-        width: 360px;
-        height: 255px;
+        width: 92vw;
+        height: 69vw;
     }
 }
 
@@ -833,7 +838,7 @@ iframe{
     }
 
     iframe{
-        width: 270px;
-        height: 165px;
+        width: 92vw;
+        height: 69vw;
     }
 }
