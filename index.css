@@ -213,6 +213,18 @@ iframe{
     
 }
 
+.construction-header{
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.construction-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .about-section{
     display: flex;
     align-items: center;
@@ -604,8 +616,18 @@ iframe{
         height: 69vw;
     }
 
+    .construction-header{
+        font-size: 28px;
+        font-weight: 900;
+    }
+
     .desktop-header-body, .desktop-section-2  {
         flex-direction: column;
+    }
+
+    .construction-image{
+        width: 80vw;
+        height: auto;
     }
 
     .mobile-navigation{
