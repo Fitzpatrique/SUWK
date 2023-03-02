@@ -46,6 +46,11 @@ iframe{
     height: 315px;
 }
 
+.iframe{
+    width: 420px;
+    height: 1463px;
+}
+
 .body{
     display: flex;
     flex-direction: column;
@@ -799,6 +804,11 @@ iframe{
     iframe{
         width: 92vw;
         height: 69vw;
+    }
+
+    .iframe{
+        width: 92vw;
+        height: 1463px;
     }
 }
 
